@@ -1,0 +1,24 @@
+# base
+git
+pysassc
+sassc
+make
+curl
+wget
+nano
+gnupg
+python3
+openssh-client
+ca-certificates
+apt-transport-https
+flatpak
+extrepo
+fastfetch
+ufw
+
+#codecs
+ffmpeg
+gstreamer1.0-libav
+gstreamer1.0-plugins-ugly
+gstreamer1.0-plugins-bad
+gstreamer1.0-plugins-good

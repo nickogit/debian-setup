@@ -1,0 +1,7 @@
+com.bitwarden.desktop
+com.discordapp.Discord
+com.github.iwalton3.jellyfin-media-player
+io.ente.auth
+md.obsidian.Obsidian
+org.signal.Signal
+org.torproject.torbrowser-launcher
