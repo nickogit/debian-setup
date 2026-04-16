@@ -31,6 +31,11 @@ apt-transport-https \
 syncthing \
 python3
 
+#fonts
+sudo apt install -y \
+fonts-inter \
+fonts-firacode
+
 #codecs
 sudo apt install -y \
 ffmpeg \
@@ -117,7 +122,7 @@ cd gnome-terminal
 cd ~
 rm -rf gnome-terminal
 
-#select themes in terminal preferences the one i use is mocha
+#select themes in terminal preferences (mocha)
 
 #add line 76 to end of ~/.bashrc
 #PS1='\[\e[38;2;245;194;231m\]\u\[\e[0m\]\[\e[38;2;249;226;175m\]@\[\e[0m\]\[\e[38;2;137;180;250m\]\h \[\e[38;2;166;227;161m\]\w\[\e[0m\]\$ '
