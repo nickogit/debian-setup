@@ -7,5 +7,5 @@ Personal debian cinnamon setup w/ utils + packages
 ```bash
 git clone https://github.com/nickogit/debian-bootstrap.git
 cd debian-setup
-chmod +x setup.sh
+chmod +x testing.setup.sh
 ./setup.sh
