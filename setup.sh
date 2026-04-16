@@ -28,6 +28,7 @@ ufw \
 gnupg \
 nano \
 apt-transport-https \
+syncthing \
 python3
 
 #codecs
