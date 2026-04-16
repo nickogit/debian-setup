@@ -2,6 +2,8 @@
 
 Personal debian cinnamon setup w/ utils + packages
 
+Prereqs: Update /etc/apt/sources.list to include main contrib non-free non-free-firmware
+
 ## Usage
 
 ```bash
